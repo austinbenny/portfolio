@@ -8,6 +8,21 @@ NOTE: Work that I did for Framatome, most of the work for TREL, and some work fo
 
 Thanks in advance for reading!
 
+## Framatome
+
+Unfortunately, I'm still trying to figure what I can show from the work I did at Framatome. Please ask me about this, so I can try to visually explain it to you haha.
+
+The work I did in creating the Neutronics Automation Python package was based on [this](https://www.nrc.gov/docs/ML2022/ML20223A018.pdf) report. As you can see, it is sparse in details.
+
+The work I did with the Flow Induced Vibration Python package is based around the theory described in [this](https://asmedigitalcollection.asme.org/pressurevesseltech/article-abstract/122/3/339/449710/Flow-Induced-Vibrations-in-Power-and-Process-Plant?redirectedFrom=fulltext) book.
+
+The work I did for the Bolted Stress Python package was based on the equations found [here](https://mechanicalc.com/calculators/bolt-pattern-force-distribution/) but tuned to comply with ASME BPVC regulations.
+
+The Reactor Vessel Internals degradation work was based on the observation below. When everything is working, the Reactor Vessel vibrates in a certain way. When something is broken, the Reactor Vessel vibrates differently. So, the question becomes, given the vibration, can we predict the component inside the Reactor Vessel that has been broken.
+
+![alt text](figs/ml_degradation.png)
+
+
 ## Texas Rocket Engineering Lab
 
 ![mod_heat_sink](figs/mod_heat_sink.jpg)
