@@ -58,7 +58,7 @@ This is a closeup of the inflation that I used. The walls require the gradual in
 
 ## ANSYS
 
-<video controls src="figs/thermal_icepak.mp4" title="Title"></video>
+![alt text](figs/thermal_icepak.gif)
 
 gif (jif?) of the thermal circuit heat exchanger I built for ANSYS Electronics Desktop. It allows clients to input certain parameters in the UI and will create a heat exchanger from those inputs. This type of heat exchanger is common inside computers, CPUs, and other such electrical components. If you have access to an ANSYS Workbench, you can find my creation on Icepak.
 
