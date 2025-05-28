@@ -1,8 +1,8 @@
 # Austin Benny's Portfolio
 
-![soothing picture](figs/soothing_pic.jpg)
+![nebula](figs/nebula.jpg)
 
-Welcome to my projects page! Here's a soothing picture if you're having a rough day.
+Welcome to my projects page!
 
 NOTE: Work that I did for Framatome, most of the work for TREL, and some work for ANSYS is protected under export control and/or proprietary. So I can't share anything of value.
 
@@ -10,7 +10,7 @@ Thanks in advance for reading!
 
 ## Framatome
 
-Unfortunately, I'm still trying to figure what I can show from the work I did at Framatome. Please ask me about this, so I can try to visually explain it to you haha.
+Unfortunately, I'm still trying to figure what I can show from the work I did at Framatome. Please ask me about this, so I can try to visually explain it to you.
 
 The work I did in creating the Neutronics Automation Python package was based on [this](https://www.nrc.gov/docs/ML2022/ML20223A018.pdf) report. As you can see, it is sparse in details.
 
